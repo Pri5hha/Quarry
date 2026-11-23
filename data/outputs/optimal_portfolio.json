@@ -1,0 +1,213 @@
+{
+  "status": "Optimal",
+  "objective_mode": "score_sum",
+  "parameters": {
+    "budget_usd": 50000000000.0,
+    "max_per_sector": 3,
+    "takeout_premium": 0.3
+  },
+  "n_targets_selected": 17,
+  "budget_used_usd": 49945685337.6,
+  "budget_utilization_pct": 99.9,
+  "total_portfolio_value": 991.75,
+  "avg_score_selected": 58.34,
+  "sector_breakdown": [
+    {
+      "sector": "Basic Materials",
+      "n_targets": 3,
+      "total_cost": 7673118169.6,
+      "avg_score": 57.583333333333336
+    },
+    {
+      "sector": "Communication Services",
+      "n_targets": 3,
+      "total_cost": 7295969158.4,
+      "avg_score": 66.66666666666667
+    },
+    {
+      "sector": "Consumer Cyclical",
+      "n_targets": 3,
+      "total_cost": 10226684416.0,
+      "avg_score": 58.21333333333333
+    },
+    {
+      "sector": "Consumer Defensive",
+      "n_targets": 1,
+      "total_cost": 378256985.6,
+      "avg_score": 33.17
+    },
+    {
+      "sector": "Financial Services",
+      "n_targets": 3,
+      "total_cost": 10354767072.0,
+      "avg_score": 56.666666666666664
+    },
+    {
+      "sector": "Healthcare",
+      "n_targets": 3,
+      "total_cost": 5600099315.200001,
+      "avg_score": 50.553333333333335
+    },
+    {
+      "sector": "Technology",
+      "n_targets": 1,
+      "total_cost": 8416790220.8,
+      "avg_score": 89.53
+    }
+  ],
+  "selected_companies": [
+    {
+      "ticker": "QLYS",
+      "name": "Qualys, Inc.",
+      "sector": "Technology",
+      "lbo_score": 89.53,
+      "rank": 4,
+      "market_cap": 6474454016.0,
+      "acquisition_cost": 8416790220.8
+    },
+    {
+      "ticker": "TDS",
+      "name": "Telephone and Data Systems, Inc",
+      "sector": "Communication Services",
+      "lbo_score": 79.33,
+      "rank": 9,
+      "market_cap": 3818397440.0,
+      "acquisition_cost": 4963916672.0
+    },
+    {
+      "ticker": "IOSP",
+      "name": "Innospec Inc.",
+      "sector": "Basic Materials",
+      "lbo_score": 76.25,
+      "rank": 12,
+      "market_cap": 2293643264.0,
+      "acquisition_cost": 2981736243.2
+    },
+    {
+      "ticker": "BBWI",
+      "name": "Bath & Body Works, Inc.",
+      "sector": "Consumer Cyclical",
+      "lbo_score": 74.45,
+      "rank": 14,
+      "market_cap": 3654315520.0,
+      "acquisition_cost": 4750610176.0
+    },
+    {
+      "ticker": "OMCL",
+      "name": "Omnicell, Inc.",
+      "sector": "Healthcare",
+      "lbo_score": 68.5,
+      "rank": 20,
+      "market_cap": 1688631936.0,
+      "acquisition_cost": 2195221516.8
+    },
+    {
+      "ticker": "SCHL",
+      "name": "Scholastic Corporation",
+      "sector": "Communication Services",
+      "lbo_score": 68.0,
+      "rank": 21,
+      "market_cap": 792228224.0,
+      "acquisition_cost": 1029896691.2
+    },
+    {
+      "ticker": "MC",
+      "name": "Moelis & Company",
+      "sector": "Financial Services",
+      "lbo_score": 60.22,
+      "rank": 39,
+      "market_cap": 4909340672.0,
+      "acquisition_cost": 6382142873.6
+    },
+    {
+      "ticker": "NAVI",
+      "name": "Navient Corporation",
+      "sector": "Financial Services",
+      "lbo_score": 57.78,
+      "rank": 48,
+      "market_cap": 829049024.0,
+      "acquisition_cost": 1077763731.2
+    },
+    {
+      "ticker": "OLN",
+      "name": "Olin Corporation",
+      "sector": "Basic Materials",
+      "lbo_score": 54.75,
+      "rank": 57,
+      "market_cap": 2133752064.0,
+      "acquisition_cost": 2773877683.2
+    },
+    {
+      "ticker": "WEN",
+      "name": "Wendy's Company (The)",
+      "sector": "Consumer Cyclical",
+      "lbo_score": 53.64,
+      "rank": 63,
+      "market_cap": 1650933760.0,
+      "acquisition_cost": 2146213888.0
+    },
+    {
+      "ticker": "SBGI",
+      "name": "Sinclair, Inc.",
+      "sector": "Communication Services",
+      "lbo_score": 52.67,
+      "rank": 65,
+      "market_cap": 1001658304.0,
+      "acquisition_cost": 1302155795.2
+    },
+    {
+      "ticker": "WU",
+      "name": "Western Union Company (The)",
+      "sector": "Financial Services",
+      "lbo_score": 52.0,
+      "rank": 67,
+      "market_cap": 2226815744.0,
+      "acquisition_cost": 2894860467.2
+    },
+    {
+      "ticker": "SAH",
+      "name": "Sonic Automotive, Inc.",
+      "sector": "Consumer Cyclical",
+      "lbo_score": 46.55,
+      "rank": 82,
+      "market_cap": 2561431040.0,
+      "acquisition_cost": 3329860352.0
+    },
+    {
+      "ticker": "AVNS",
+      "name": "Avanos Medical, Inc.",
+      "sector": "Healthcare",
+      "lbo_score": 43.08,
+      "rank": 87,
+      "market_cap": 1170726912.0,
+      "acquisition_cost": 1521944985.6
+    },
+    {
+      "ticker": "SCL",
+      "name": "Stepan Company",
+      "sector": "Basic Materials",
+      "lbo_score": 41.75,
+      "rank": 88,
+      "market_cap": 1475003264.0,
+      "acquisition_cost": 1917504243.2
+    },
+    {
+      "ticker": "AGL",
+      "name": "agilon health, inc.",
+      "sector": "Healthcare",
+      "lbo_score": 40.08,
+      "rank": 93,
+      "market_cap": 1448409856.0,
+      "acquisition_cost": 1882932812.8
+    },
+    {
+      "ticker": "BGS",
+      "name": "B&G Foods, Inc.",
+      "sector": "Consumer Defensive",
+      "lbo_score": 33.17,
+      "rank": 106,
+      "market_cap": 290966912.0,
+      "acquisition_cost": 378256985.6
+    }
+  ]
+}

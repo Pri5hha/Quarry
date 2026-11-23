@@ -1,0 +1,46 @@
+{
+  "calibrated_weights": {
+    "ebitda_margin": 0.2701,
+    "ebitda_growth_stability": 0.2708,
+    "leverage_headroom": 0.0788,
+    "fcf_conversion": 0.0898,
+    "revenue_volatility": 0.2904
+  },
+  "signed_coefficients": {
+    "ebitda_margin": -0.4151,
+    "ebitda_growth_stability": -0.4162,
+    "leverage_headroom": 0.1211,
+    "fcf_conversion": 0.138,
+    "revenue_volatility": -0.4462
+  },
+  "train_auc": 0.739,
+  "n_positive": 22,
+  "n_negative": 116,
+  "backtest_comparison": {
+    "hand_set_weights": {
+      "weights": {
+        "fcf_conversion": 0.28,
+        "leverage_headroom": 0.26,
+        "ebitda_margin": 0.2,
+        "ebitda_growth_stability": 0.16,
+        "revenue_volatility": 0.1
+      },
+      "hit_rate_top20_pct": 4.5,
+      "median_percentile": 30.8,
+      "mean_percentile": 33.7
+    },
+    "calibrated_weights": {
+      "weights": {
+        "ebitda_margin": 0.2701,
+        "ebitda_growth_stability": 0.2708,
+        "leverage_headroom": 0.0788,
+        "fcf_conversion": 0.0898,
+        "revenue_volatility": 0.2904
+      },
+      "hit_rate_top20_pct": 0.0,
+      "median_percentile": 23.9,
+      "mean_percentile": 29.7
+    }
+  },
+  "caveat": "Evaluated in-sample on a small (~22 positive), tech-heavy sample. Treat as illustrative of the calibration approach, not a validated generalization claim."
+}

@@ -1,0 +1,4652 @@
+{
+  "CTXS": {
+    "ticker": "CTXS",
+    "name": "Citrix Systems, Inc.",
+    "sector": "Technology",
+    "acquirer": "Vista Equity Partners / Evergreen Coast Capital",
+    "deal_announce_date": "2022-01-31",
+    "points": [
+      {
+        "date": "2019-01-31",
+        "months_before_deal": 36,
+        "score": 64.5,
+        "rank": 33,
+        "rank_percentile": 72.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 66.67,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2999,
+          "leverage_headroom": 5.17,
+          "fcf_conversion": 1.083,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2019-04-30",
+        "months_before_deal": 33,
+        "score": 62.94,
+        "rank": 35,
+        "rank_percentile": 70.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 61.11,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2868,
+          "leverage_headroom": 5.14,
+          "fcf_conversion": 1.0176,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2019-07-31",
+        "months_before_deal": 30,
+        "score": 62.28,
+        "rank": 37,
+        "rank_percentile": 69.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 66.67,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 55.56,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2783,
+          "leverage_headroom": 5.11,
+          "fcf_conversion": 1.0325,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2019-10-31",
+        "months_before_deal": 27,
+        "score": 58.06,
+        "rank": 46,
+        "rank_percentile": 61.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 55.56,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 50.0,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2654,
+          "leverage_headroom": 5.07,
+          "fcf_conversion": 0.9008,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2020-01-31",
+        "months_before_deal": 24,
+        "score": 56.94,
+        "rank": 50,
+        "rank_percentile": 58.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 55.56,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 44.44,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.259,
+          "leverage_headroom": 5.05,
+          "fcf_conversion": 0.9227,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2020-04-30",
+        "months_before_deal": 21,
+        "score": 57.61,
+        "rank": 49,
+        "rank_percentile": 59.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 50.0,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 55.56,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2718,
+          "leverage_headroom": 5.13,
+          "fcf_conversion": 0.8671,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2020-07-31",
+        "months_before_deal": 18,
+        "score": 58.17,
+        "rank": 46,
+        "rank_percentile": 61.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 77.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 55.56,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2729,
+          "leverage_headroom": 4.02,
+          "fcf_conversion": 1.1558,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2020-10-31",
+        "months_before_deal": 15,
+        "score": 56.61,
+        "rank": 50,
+        "rank_percentile": 57.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 72.22,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 55.56,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2743,
+          "leverage_headroom": 4.05,
+          "fcf_conversion": 1.1015,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2021-01-31",
+        "months_before_deal": 12,
+        "score": 52.83,
+        "rank": 65,
+        "rank_percentile": 45.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 66.67,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 44.44,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2589,
+          "leverage_headroom": 3.93,
+          "fcf_conversion": 1.0675,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2021-04-30",
+        "months_before_deal": 9,
+        "score": 42.39,
+        "rank": 88,
+        "rank_percentile": 25.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 72.22,
+          "leverage_headroom": 11.11,
+          "ebitda_margin": 27.78,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2313,
+          "leverage_headroom": 1.24,
+          "fcf_conversion": 1.1104,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2021-07-31",
+        "months_before_deal": 6,
+        "score": 31.61,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 38.89,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 27.78,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2226,
+          "leverage_headroom": 1.07,
+          "fcf_conversion": 0.7435,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2021-10-31",
+        "months_before_deal": 3,
+        "score": 34.61,
+        "rank": 106,
+        "rank_percentile": 10.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 11.11,
+          "ebitda_margin": 27.78,
+          "ebitda_growth_stability": 52.78,
+          "revenue_volatility": 52.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2194,
+          "leverage_headroom": 1.23,
+          "fcf_conversion": 0.8015,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      }
+    ]
+  },
+  "CNR": {
+    "ticker": "CNR",
+    "name": "Cornerstone Building Brands, Inc.",
+    "sector": "Industrials",
+    "acquirer": "Clayton, Dubilier & Rice",
+    "deal_announce_date": "2022-03-07",
+    "points": [
+      {
+        "date": "2019-03-07",
+        "months_before_deal": 36,
+        "score": 12.96,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 4.0,
+          "ebitda_margin": 8.0,
+          "ebitda_growth_stability": 12.0,
+          "revenue_volatility": 28.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0526,
+          "leverage_headroom": -21.65,
+          "fcf_conversion": 0.4163,
+          "ebitda_growth_stability": 0.5344,
+          "revenue_volatility": 0.0803
+        }
+      },
+      {
+        "date": "2019-06-07",
+        "months_before_deal": 33,
+        "score": 9.2,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 8.0,
+          "leverage_headroom": 4.0,
+          "ebitda_margin": 8.0,
+          "ebitda_growth_stability": 12.0,
+          "revenue_volatility": 24.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0421,
+          "leverage_headroom": -22.76,
+          "fcf_conversion": -0.5778,
+          "ebitda_growth_stability": 0.5348,
+          "revenue_volatility": 0.1207
+        }
+      },
+      {
+        "date": "2019-09-07",
+        "months_before_deal": 30,
+        "score": 9.84,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 8.0,
+          "leverage_headroom": 8.0,
+          "ebitda_margin": 12.0,
+          "ebitda_growth_stability": 12.0,
+          "revenue_volatility": 12.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0571,
+          "leverage_headroom": -10.75,
+          "fcf_conversion": -0.3861,
+          "ebitda_growth_stability": 0.5423,
+          "revenue_volatility": 0.2232
+        }
+      },
+      {
+        "date": "2019-12-07",
+        "months_before_deal": 27,
+        "score": 10.16,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 12.0,
+          "leverage_headroom": 8.0,
+          "ebitda_margin": 12.0,
+          "ebitda_growth_stability": 12.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0733,
+          "leverage_headroom": -4.69,
+          "fcf_conversion": -0.0683,
+          "ebitda_growth_stability": 0.5396,
+          "revenue_volatility": 0.3307
+        }
+      },
+      {
+        "date": "2020-03-07",
+        "months_before_deal": 24,
+        "score": 10.96,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 12.0,
+          "leverage_headroom": 8.0,
+          "ebitda_margin": 16.0,
+          "ebitda_growth_stability": 12.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0979,
+          "leverage_headroom": -0.65,
+          "fcf_conversion": 0.2268,
+          "ebitda_growth_stability": 0.5196,
+          "revenue_volatility": 0.4195
+        }
+      },
+      {
+        "date": "2020-06-07",
+        "months_before_deal": 21,
+        "score": 31.52,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 4.0,
+          "ebitda_margin": 4.0,
+          "ebitda_growth_stability": 8.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.003,
+          "leverage_headroom": -238.24,
+          "fcf_conversion": 10.3816,
+          "ebitda_growth_stability": 0.4959,
+          "revenue_volatility": 0.419
+        }
+      },
+      {
+        "date": "2020-09-07",
+        "months_before_deal": 18,
+        "score": 30.56,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.0,
+          "leverage_headroom": 52.0,
+          "ebitda_margin": 4.0,
+          "ebitda_growth_stability": 8.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0008,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.4946,
+          "revenue_volatility": 0.4212
+        }
+      },
+      {
+        "date": "2020-12-07",
+        "months_before_deal": 15,
+        "score": 31.52,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 4.0,
+          "ebitda_margin": 4.0,
+          "ebitda_growth_stability": 8.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0027,
+          "leverage_headroom": -283.4,
+          "fcf_conversion": 24.2778,
+          "ebitda_growth_stability": 0.4957,
+          "revenue_volatility": 0.4219
+        }
+      },
+      {
+        "date": "2021-03-07",
+        "months_before_deal": 12,
+        "score": 31.52,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 4.0,
+          "ebitda_margin": 4.0,
+          "ebitda_growth_stability": 8.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0039,
+          "leverage_headroom": -192.33,
+          "fcf_conversion": 12.5202,
+          "ebitda_growth_stability": 0.5063,
+          "revenue_volatility": 0.4069
+        }
+      },
+      {
+        "date": "2021-06-07",
+        "months_before_deal": 9,
+        "score": 15.44,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 24.0,
+          "leverage_headroom": 8.0,
+          "ebitda_margin": 28.0,
+          "ebitda_growth_stability": 4.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1209,
+          "leverage_headroom": -0.21,
+          "fcf_conversion": 0.4423,
+          "ebitda_growth_stability": 0.1015,
+          "revenue_volatility": 0.4056
+        }
+      },
+      {
+        "date": "2021-09-07",
+        "months_before_deal": 6,
+        "score": 12.08,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 12.0,
+          "leverage_headroom": 8.0,
+          "ebitda_margin": 28.0,
+          "ebitda_growth_stability": 4.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1214,
+          "leverage_headroom": 0.81,
+          "fcf_conversion": 0.2395,
+          "ebitda_growth_stability": 0.0953,
+          "revenue_volatility": 0.4038
+        }
+      },
+      {
+        "date": "2021-12-07",
+        "months_before_deal": 3,
+        "score": 32.16,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 12.0,
+          "leverage_headroom": 36.0,
+          "ebitda_margin": 92.0,
+          "ebitda_growth_stability": 4.0,
+          "revenue_volatility": 4.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2684,
+          "leverage_headroom": 3.86,
+          "fcf_conversion": -0.1452,
+          "ebitda_growth_stability": 0.0429,
+          "revenue_volatility": 0.4031
+        }
+      }
+    ]
+  },
+  "PLAN": {
+    "ticker": "PLAN",
+    "name": "Anaplan, Inc.",
+    "sector": "Technology",
+    "acquirer": "Thoma Bravo",
+    "deal_announce_date": "2022-03-21",
+    "points": [
+      {
+        "date": "2019-03-21",
+        "months_before_deal": 36,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.4792,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.4717,
+          "revenue_volatility": 0.2391
+        }
+      },
+      {
+        "date": "2019-06-21",
+        "months_before_deal": 33,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.4726,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.4776,
+          "revenue_volatility": 0.1811
+        }
+      },
+      {
+        "date": "2019-09-21",
+        "months_before_deal": 30,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.4963,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.4884,
+          "revenue_volatility": 0.1174
+        }
+      },
+      {
+        "date": "2019-12-21",
+        "months_before_deal": 27,
+        "score": 33.83,
+        "rank": 107,
+        "rank_percentile": 9.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 33.33
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.3923,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.4775,
+          "revenue_volatility": 0.0531
+        }
+      },
+      {
+        "date": "2020-03-21",
+        "months_before_deal": 24,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.3681,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5099,
+          "revenue_volatility": 0.2131
+        }
+      },
+      {
+        "date": "2020-06-21",
+        "months_before_deal": 21,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.3405,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5099,
+          "revenue_volatility": 0.1731
+        }
+      },
+      {
+        "date": "2020-09-21",
+        "months_before_deal": 18,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.3091,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5079,
+          "revenue_volatility": 0.1418
+        }
+      },
+      {
+        "date": "2020-12-21",
+        "months_before_deal": 15,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2951,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5087,
+          "revenue_volatility": 0.1057
+        }
+      },
+      {
+        "date": "2021-03-21",
+        "months_before_deal": 12,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2858,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5351,
+          "revenue_volatility": 0.1851
+        }
+      },
+      {
+        "date": "2021-06-21",
+        "months_before_deal": 9,
+        "score": 32.17,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2911,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5378,
+          "revenue_volatility": 0.1609
+        }
+      },
+      {
+        "date": "2021-09-21",
+        "months_before_deal": 6,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2902,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5403,
+          "revenue_volatility": 0.1269
+        }
+      },
+      {
+        "date": "2021-12-21",
+        "months_before_deal": 3,
+        "score": 33.28,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2898,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5424,
+          "revenue_volatility": 0.0938
+        }
+      }
+    ]
+  },
+  "SAIL": {
+    "ticker": "SAIL",
+    "name": "SailPoint Technologies Holdings, Inc.",
+    "sector": "Technology",
+    "acquirer": "Thoma Bravo",
+    "deal_announce_date": "2022-04-11",
+    "points": [
+      {
+        "date": "2019-04-11",
+        "months_before_deal": 36,
+        "score": 48.0,
+        "rank": 77,
+        "rank_percentile": 35.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 88.89,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0743,
+          "leverage_headroom": 5.0,
+          "fcf_conversion": 1.5134,
+          "ebitda_growth_stability": 0.7357,
+          "revenue_volatility": 0.1905
+        }
+      },
+      {
+        "date": "2019-07-11",
+        "months_before_deal": 33,
+        "score": 44.89,
+        "rank": 84,
+        "rank_percentile": 29.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 94.44,
+          "leverage_headroom": 61.11,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0428,
+          "leverage_headroom": 4.33,
+          "fcf_conversion": 1.9169,
+          "ebitda_growth_stability": 0.6552,
+          "revenue_volatility": 0.1691
+        }
+      },
+      {
+        "date": "2019-10-11",
+        "months_before_deal": 30,
+        "score": 43.78,
+        "rank": 87,
+        "rank_percentile": 26.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0324,
+          "leverage_headroom": 3.87,
+          "fcf_conversion": 4.1155,
+          "ebitda_growth_stability": 0.631,
+          "revenue_volatility": 0.1461
+        }
+      },
+      {
+        "date": "2020-01-11",
+        "months_before_deal": 27,
+        "score": 39.22,
+        "rank": 95,
+        "rank_percentile": 19.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0193,
+          "leverage_headroom": 2.53,
+          "fcf_conversion": 7.9003,
+          "ebitda_growth_stability": 0.6461,
+          "revenue_volatility": 0.1827
+        }
+      },
+      {
+        "date": "2020-04-11",
+        "months_before_deal": 24,
+        "score": 43.22,
+        "rank": 87,
+        "rank_percentile": 26.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0271,
+          "leverage_headroom": 3.65,
+          "fcf_conversion": 5.4987,
+          "ebitda_growth_stability": 0.6237,
+          "revenue_volatility": 0.1622
+        }
+      },
+      {
+        "date": "2020-07-11",
+        "months_before_deal": 21,
+        "score": 49.0,
+        "rank": 74,
+        "rank_percentile": 37.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 88.89,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0822,
+          "leverage_headroom": 5.29,
+          "fcf_conversion": 1.6995,
+          "ebitda_growth_stability": 0.3281,
+          "revenue_volatility": 0.1273
+        }
+      },
+      {
+        "date": "2020-10-11",
+        "months_before_deal": 18,
+        "score": 47.89,
+        "rank": 77,
+        "rank_percentile": 35.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 88.89,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0795,
+          "leverage_headroom": 5.31,
+          "fcf_conversion": 1.4809,
+          "ebitda_growth_stability": 0.3229,
+          "revenue_volatility": 0.1121
+        }
+      },
+      {
+        "date": "2021-01-11",
+        "months_before_deal": 15,
+        "score": 50.44,
+        "rank": 72,
+        "rank_percentile": 39.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 72.22,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0525,
+          "leverage_headroom": 4.99,
+          "fcf_conversion": 2.8176,
+          "ebitda_growth_stability": 0.4542,
+          "revenue_volatility": 0.1593
+        }
+      },
+      {
+        "date": "2021-04-11",
+        "months_before_deal": 12,
+        "score": 43.78,
+        "rank": 87,
+        "rank_percentile": 26.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0239,
+          "leverage_headroom": 3.87,
+          "fcf_conversion": 2.7301,
+          "ebitda_growth_stability": 0.4397,
+          "revenue_volatility": 0.1443
+        }
+      },
+      {
+        "date": "2021-07-11",
+        "months_before_deal": 9,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0374,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3883,
+          "revenue_volatility": 0.135
+        }
+      },
+      {
+        "date": "2021-10-11",
+        "months_before_deal": 6,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0794,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3477,
+          "revenue_volatility": 0.1212
+        }
+      },
+      {
+        "date": "2022-01-11",
+        "months_before_deal": 3,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0836,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3634,
+          "revenue_volatility": 0.143
+        }
+      }
+    ]
+  },
+  "MANT": {
+    "ticker": "MANT",
+    "name": "ManTech International Corporation",
+    "sector": "Technology",
+    "acquirer": "Carlyle Group",
+    "deal_announce_date": "2022-05-02",
+    "points": [
+      {
+        "date": "2019-05-02",
+        "months_before_deal": 36,
+        "score": 43.22,
+        "rank": 86,
+        "rank_percentile": 27.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.084,
+          "leverage_headroom": 5.94,
+          "fcf_conversion": 0.7672,
+          "ebitda_growth_stability": 0.6642,
+          "revenue_volatility": 0.1466
+        }
+      },
+      {
+        "date": "2019-08-02",
+        "months_before_deal": 33,
+        "score": 43.22,
+        "rank": 86,
+        "rank_percentile": 27.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0842,
+          "leverage_headroom": 5.94,
+          "fcf_conversion": 0.8536,
+          "ebitda_growth_stability": 0.6644,
+          "revenue_volatility": 0.1468
+        }
+      },
+      {
+        "date": "2019-11-02",
+        "months_before_deal": 30,
+        "score": 49.44,
+        "rank": 73,
+        "rank_percentile": 38.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 66.67,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0855,
+          "leverage_headroom": 5.94,
+          "fcf_conversion": 1.0432,
+          "ebitda_growth_stability": 0.6647,
+          "revenue_volatility": 0.1479
+        }
+      },
+      {
+        "date": "2020-02-02",
+        "months_before_deal": 27,
+        "score": 43.78,
+        "rank": 86,
+        "rank_percentile": 27.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0874,
+          "leverage_headroom": 5.95,
+          "fcf_conversion": 0.8579,
+          "ebitda_growth_stability": 0.6745,
+          "revenue_volatility": 0.1442
+        }
+      },
+      {
+        "date": "2020-05-02",
+        "months_before_deal": 24,
+        "score": 42.22,
+        "rank": 88,
+        "rank_percentile": 25.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 38.89,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0892,
+          "leverage_headroom": 5.95,
+          "fcf_conversion": 0.691,
+          "ebitda_growth_stability": 0.675,
+          "revenue_volatility": 0.1441
+        }
+      },
+      {
+        "date": "2020-08-02",
+        "months_before_deal": 21,
+        "score": 36.0,
+        "rank": 102,
+        "rank_percentile": 13.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 16.67,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.09,
+          "leverage_headroom": 5.95,
+          "fcf_conversion": 0.5687,
+          "ebitda_growth_stability": 0.6752,
+          "revenue_volatility": 0.1452
+        }
+      },
+      {
+        "date": "2020-11-02",
+        "months_before_deal": 18,
+        "score": 37.0,
+        "rank": 99,
+        "rank_percentile": 16.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 22.22,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.09,
+          "leverage_headroom": 5.96,
+          "fcf_conversion": 0.6062,
+          "ebitda_growth_stability": 0.6752,
+          "revenue_volatility": 0.1464
+        }
+      },
+      {
+        "date": "2021-02-02",
+        "months_before_deal": 15,
+        "score": 43.78,
+        "rank": 86,
+        "rank_percentile": 27.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0907,
+          "leverage_headroom": 5.96,
+          "fcf_conversion": 0.7713,
+          "ebitda_growth_stability": 0.6839,
+          "revenue_volatility": 0.1413
+        }
+      },
+      {
+        "date": "2021-05-02",
+        "months_before_deal": 12,
+        "score": 36.0,
+        "rank": 102,
+        "rank_percentile": 13.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 16.67,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0924,
+          "leverage_headroom": 5.96,
+          "fcf_conversion": 0.5654,
+          "ebitda_growth_stability": 0.6841,
+          "revenue_volatility": 0.1411
+        }
+      },
+      {
+        "date": "2021-08-02",
+        "months_before_deal": 9,
+        "score": 39.11,
+        "rank": 94,
+        "rank_percentile": 20.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 27.78,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0961,
+          "leverage_headroom": 5.96,
+          "fcf_conversion": 0.6204,
+          "ebitda_growth_stability": 0.6844,
+          "revenue_volatility": 0.1411
+        }
+      },
+      {
+        "date": "2021-11-02",
+        "months_before_deal": 6,
+        "score": 40.67,
+        "rank": 90,
+        "rank_percentile": 23.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 33.33,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.102,
+          "leverage_headroom": 5.96,
+          "fcf_conversion": 0.6762,
+          "ebitda_growth_stability": 0.6846,
+          "revenue_volatility": 0.1411
+        }
+      },
+      {
+        "date": "2022-02-02",
+        "months_before_deal": 3,
+        "score": 37.56,
+        "rank": 97,
+        "rank_percentile": 17.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 22.22,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1033,
+          "leverage_headroom": 5.96,
+          "fcf_conversion": 0.5959,
+          "ebitda_growth_stability": 0.6924,
+          "revenue_volatility": 0.1358
+        }
+      }
+    ]
+  },
+  "CDK": {
+    "ticker": "CDK",
+    "name": "CDK Global, Inc.",
+    "sector": "Technology",
+    "acquirer": "Brookfield Business Partners",
+    "deal_announce_date": "2022-06-13",
+    "points": [
+      {
+        "date": "2019-06-13",
+        "months_before_deal": 36,
+        "score": 54.39,
+        "rank": 60,
+        "rank_percentile": 49.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2889,
+          "leverage_headroom": 4.17,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8958,
+          "revenue_volatility": 0.0941
+        }
+      },
+      {
+        "date": "2019-09-13",
+        "months_before_deal": 33,
+        "score": 46.11,
+        "rank": 83,
+        "rank_percentile": 29.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 38.89,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2483,
+          "leverage_headroom": 3.91,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8836,
+          "revenue_volatility": 0.126
+        }
+      },
+      {
+        "date": "2019-12-13",
+        "months_before_deal": 30,
+        "score": 47.22,
+        "rank": 80,
+        "rank_percentile": 32.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 44.44,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2568,
+          "leverage_headroom": 3.95,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8843,
+          "revenue_volatility": 0.1216
+        }
+      },
+      {
+        "date": "2020-03-13",
+        "months_before_deal": 27,
+        "score": 48.33,
+        "rank": 76,
+        "rank_percentile": 35.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 50.0,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.2665,
+          "leverage_headroom": 3.96,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8844,
+          "revenue_volatility": 0.1131
+        }
+      },
+      {
+        "date": "2020-06-13",
+        "months_before_deal": 24,
+        "score": 49.44,
+        "rank": 74,
+        "rank_percentile": 37.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 55.56,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.272,
+          "leverage_headroom": 3.91,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8837,
+          "revenue_volatility": 0.1044
+        }
+      },
+      {
+        "date": "2020-09-13",
+        "months_before_deal": 21,
+        "score": 61.0,
+        "rank": 38,
+        "rank_percentile": 68.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 61.11,
+          "ebitda_margin": 88.89,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.3702,
+          "leverage_headroom": 4.36,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8776,
+          "revenue_volatility": 0.0891
+        }
+      },
+      {
+        "date": "2020-12-13",
+        "months_before_deal": 18,
+        "score": 59.0,
+        "rank": 42,
+        "rank_percentile": 65.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 61.11,
+          "ebitda_margin": 83.33,
+          "ebitda_growth_stability": 55.56,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.3396,
+          "leverage_headroom": 4.21,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.872,
+          "revenue_volatility": 0.089
+        }
+      },
+      {
+        "date": "2021-03-13",
+        "months_before_deal": 15,
+        "score": 53.5,
+        "rank": 64,
+        "rank_percentile": 46.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 55.56,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.331,
+          "leverage_headroom": 4.15,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.869,
+          "revenue_volatility": 0.089
+        }
+      },
+      {
+        "date": "2021-06-13",
+        "months_before_deal": 12,
+        "score": 50.44,
+        "rank": 72,
+        "rank_percentile": 39.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 50.0,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.3161,
+          "leverage_headroom": 4.07,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8647,
+          "revenue_volatility": 0.089
+        }
+      },
+      {
+        "date": "2021-09-13",
+        "months_before_deal": 9,
+        "score": 52.22,
+        "rank": 67,
+        "rank_percentile": 43.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.3132,
+          "leverage_headroom": 4.1,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8732,
+          "revenue_volatility": 0.084
+        }
+      },
+      {
+        "date": "2021-12-13",
+        "months_before_deal": 6,
+        "score": 56.56,
+        "rank": 51,
+        "rank_percentile": 57.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 61.11,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.327,
+          "leverage_headroom": 4.21,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.874,
+          "revenue_volatility": 0.0843
+        }
+      },
+      {
+        "date": "2022-03-13",
+        "months_before_deal": 3,
+        "score": 56.56,
+        "rank": 51,
+        "rank_percentile": 57.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 61.11,
+          "ebitda_margin": 66.67,
+          "ebitda_growth_stability": 61.11,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.3224,
+          "leverage_headroom": 4.22,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.874,
+          "revenue_volatility": 0.0851
+        }
+      }
+    ]
+  },
+  "ZEN": {
+    "ticker": "ZEN",
+    "name": "Zendesk, Inc.",
+    "sector": "Technology",
+    "acquirer": "Hellman & Friedman / Permira",
+    "deal_announce_date": "2022-06-24",
+    "points": [
+      {
+        "date": "2019-06-24",
+        "months_before_deal": 36,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1735,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5408,
+          "revenue_volatility": 0.2687
+        }
+      },
+      {
+        "date": "2019-09-24",
+        "months_before_deal": 33,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1855,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.543,
+          "revenue_volatility": 0.2462
+        }
+      },
+      {
+        "date": "2019-12-24",
+        "months_before_deal": 30,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1715,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.543,
+          "revenue_volatility": 0.2252
+        }
+      },
+      {
+        "date": "2020-03-24",
+        "months_before_deal": 27,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1524,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.557,
+          "revenue_volatility": 0.2759
+        }
+      },
+      {
+        "date": "2020-06-24",
+        "months_before_deal": 24,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1367,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5561,
+          "revenue_volatility": 0.2591
+        }
+      },
+      {
+        "date": "2020-09-24",
+        "months_before_deal": 21,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1056,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5515,
+          "revenue_volatility": 0.2445
+        }
+      },
+      {
+        "date": "2020-12-24",
+        "months_before_deal": 18,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0922,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5496,
+          "revenue_volatility": 0.2314
+        }
+      },
+      {
+        "date": "2021-03-24",
+        "months_before_deal": 15,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1104,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5684,
+          "revenue_volatility": 0.2692
+        }
+      },
+      {
+        "date": "2021-06-24",
+        "months_before_deal": 12,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1022,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.568,
+          "revenue_volatility": 0.2569
+        }
+      },
+      {
+        "date": "2021-09-24",
+        "months_before_deal": 9,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1067,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5697,
+          "revenue_volatility": 0.2437
+        }
+      },
+      {
+        "date": "2021-12-24",
+        "months_before_deal": 6,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1089,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5708,
+          "revenue_volatility": 0.23
+        }
+      },
+      {
+        "date": "2022-03-24",
+        "months_before_deal": 3,
+        "score": 31.06,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0964,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.5819,
+          "revenue_volatility": 0.259
+        }
+      }
+    ]
+  },
+  "CVET": {
+    "ticker": "CVET",
+    "name": "Covetrus, Inc.",
+    "sector": "Healthcare",
+    "acquirer": "CD&R / TPG",
+    "deal_announce_date": "2022-08-01",
+    "points": [
+      {
+        "date": "2019-08-01",
+        "months_before_deal": 36,
+        "score": 51.54,
+        "rank": 69,
+        "rank_percentile": 41.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 76.92,
+          "revenue_volatility": 61.54
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.041,
+          "leverage_headroom": -1.65,
+          "fcf_conversion": 0.5355,
+          "ebitda_growth_stability": 0.8422,
+          "revenue_volatility": 0.0395
+        }
+      },
+      {
+        "date": "2019-11-01",
+        "months_before_deal": 33,
+        "score": 41.54,
+        "rank": 91,
+        "rank_percentile": 23.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 53.85,
+          "leverage_headroom": 53.85,
+          "ebitda_margin": 15.38,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 69.23
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2098,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2179,
+          "revenue_volatility": 0.0217
+        }
+      },
+      {
+        "date": "2020-02-01",
+        "months_before_deal": 30,
+        "score": 41.54,
+        "rank": 91,
+        "rank_percentile": 23.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 53.85,
+          "leverage_headroom": 53.85,
+          "ebitda_margin": 15.38,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 69.23
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2123,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2494,
+          "revenue_volatility": 0.0311
+        }
+      },
+      {
+        "date": "2020-05-01",
+        "months_before_deal": 27,
+        "score": 43.85,
+        "rank": 86,
+        "rank_percentile": 27.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 53.85,
+          "leverage_headroom": 53.85,
+          "ebitda_margin": 15.38,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 92.31
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2061,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2494,
+          "revenue_volatility": 0.0132
+        }
+      },
+      {
+        "date": "2020-08-01",
+        "months_before_deal": 24,
+        "score": 43.85,
+        "rank": 86,
+        "rank_percentile": 27.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 53.85,
+          "leverage_headroom": 53.85,
+          "ebitda_margin": 15.38,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 92.31
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.205,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2494,
+          "revenue_volatility": 0.0107
+        }
+      },
+      {
+        "date": "2020-11-01",
+        "months_before_deal": 21,
+        "score": 27.08,
+        "rank": 111,
+        "rank_percentile": 6.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 23.08,
+          "leverage_headroom": 7.69,
+          "ebitda_margin": 30.77,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 100.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0206,
+          "leverage_headroom": -6.97,
+          "fcf_conversion": 0.3563,
+          "ebitda_growth_stability": 0.2666,
+          "revenue_volatility": 0.0053
+        }
+      },
+      {
+        "date": "2021-02-01",
+        "months_before_deal": 18,
+        "score": 24.62,
+        "rank": 114,
+        "rank_percentile": 3.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 15.38,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 61.54
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0219,
+          "leverage_headroom": -5.25,
+          "fcf_conversion": -0.0526,
+          "ebitda_growth_stability": 0.2883,
+          "revenue_volatility": 0.0377
+        }
+      },
+      {
+        "date": "2021-05-01",
+        "months_before_deal": 15,
+        "score": 25.38,
+        "rank": 114,
+        "rank_percentile": 3.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 15.38,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 69.23
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0263,
+          "leverage_headroom": -3.31,
+          "fcf_conversion": 0.087,
+          "ebitda_growth_stability": 0.2846,
+          "revenue_volatility": 0.034
+        }
+      },
+      {
+        "date": "2021-08-01",
+        "months_before_deal": 12,
+        "score": 26.15,
+        "rank": 113,
+        "rank_percentile": 4.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 15.38,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 76.92
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0247,
+          "leverage_headroom": -3.56,
+          "fcf_conversion": -0.5357,
+          "ebitda_growth_stability": 0.2852,
+          "revenue_volatility": 0.0204
+        }
+      },
+      {
+        "date": "2021-11-01",
+        "months_before_deal": 9,
+        "score": 30.31,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 23.08,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 76.92
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0297,
+          "leverage_headroom": -1.89,
+          "fcf_conversion": 0.3235,
+          "ebitda_growth_stability": 0.2806,
+          "revenue_volatility": 0.0187
+        }
+      },
+      {
+        "date": "2022-02-01",
+        "months_before_deal": 6,
+        "score": 29.54,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 23.08,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 69.23
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0323,
+          "leverage_headroom": -1.07,
+          "fcf_conversion": 0.2838,
+          "ebitda_growth_stability": 0.2997,
+          "revenue_volatility": 0.0326
+        }
+      },
+      {
+        "date": "2022-05-01",
+        "months_before_deal": 3,
+        "score": 31.69,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 30.77,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 38.46,
+          "ebitda_growth_stability": 15.38,
+          "revenue_volatility": 69.23
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0333,
+          "leverage_headroom": -0.8,
+          "fcf_conversion": 0.4545,
+          "ebitda_growth_stability": 0.2992,
+          "revenue_volatility": 0.0288
+        }
+      }
+    ]
+  },
+  "UNVR": {
+    "ticker": "UNVR",
+    "name": "Univar Solutions Inc.",
+    "sector": "Basic Materials",
+    "acquirer": "Apollo Global Management",
+    "deal_announce_date": "2023-03-12",
+    "points": [
+      {
+        "date": "2020-03-12",
+        "months_before_deal": 36,
+        "score": 57.78,
+        "rank": 48,
+        "rank_percentile": 59.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 22.22,
+          "ebitda_margin": 22.22,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 88.89
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0433,
+          "leverage_headroom": -0.64,
+          "fcf_conversion": 0.6005,
+          "ebitda_growth_stability": 0.7734,
+          "revenue_volatility": 0.0325
+        }
+      },
+      {
+        "date": "2020-06-12",
+        "months_before_deal": 33,
+        "score": 54.89,
+        "rank": 57,
+        "rank_percentile": 52.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 77.78,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 55.56,
+          "revenue_volatility": 88.89
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0576,
+          "leverage_headroom": 1.04,
+          "fcf_conversion": 0.5189,
+          "ebitda_growth_stability": 0.7605,
+          "revenue_volatility": 0.0305
+        }
+      },
+      {
+        "date": "2020-09-12",
+        "months_before_deal": 30,
+        "score": 60.67,
+        "rank": 38,
+        "rank_percentile": 68.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 66.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0595,
+          "leverage_headroom": 0.89,
+          "fcf_conversion": 0.9502,
+          "ebitda_growth_stability": 0.7647,
+          "revenue_volatility": 0.0566
+        }
+      },
+      {
+        "date": "2020-12-12",
+        "months_before_deal": 27,
+        "score": 56.44,
+        "rank": 53,
+        "rank_percentile": 55.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 88.89,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0601,
+          "leverage_headroom": 0.7,
+          "fcf_conversion": 0.5535,
+          "ebitda_growth_stability": 0.7686,
+          "revenue_volatility": 0.0758
+        }
+      },
+      {
+        "date": "2021-03-12",
+        "months_before_deal": 24,
+        "score": 44.0,
+        "rank": 85,
+        "rank_percentile": 28.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0603,
+          "leverage_headroom": 0.87,
+          "fcf_conversion": 0.2318,
+          "ebitda_growth_stability": 0.7891,
+          "revenue_volatility": 0.0711
+        }
+      },
+      {
+        "date": "2021-06-12",
+        "months_before_deal": 21,
+        "score": 44.0,
+        "rank": 85,
+        "rank_percentile": 28.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0616,
+          "leverage_headroom": 0.94,
+          "fcf_conversion": 0.2162,
+          "ebitda_growth_stability": 0.7899,
+          "revenue_volatility": 0.0713
+        }
+      },
+      {
+        "date": "2021-09-12",
+        "months_before_deal": 18,
+        "score": 37.78,
+        "rank": 97,
+        "rank_percentile": 17.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 22.22,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.064,
+          "leverage_headroom": 1.35,
+          "fcf_conversion": 0.072,
+          "ebitda_growth_stability": 0.7927,
+          "revenue_volatility": 0.0724
+        }
+      },
+      {
+        "date": "2021-12-12",
+        "months_before_deal": 15,
+        "score": 44.0,
+        "rank": 85,
+        "rank_percentile": 28.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0682,
+          "leverage_headroom": 1.86,
+          "fcf_conversion": 0.2624,
+          "ebitda_growth_stability": 0.7898,
+          "revenue_volatility": 0.0815
+        }
+      },
+      {
+        "date": "2022-03-12",
+        "months_before_deal": 12,
+        "score": 46.89,
+        "rank": 81,
+        "rank_percentile": 31.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 33.33,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0721,
+          "leverage_headroom": 2.82,
+          "fcf_conversion": 0.2611,
+          "ebitda_growth_stability": 0.7923,
+          "revenue_volatility": 0.0874
+        }
+      },
+      {
+        "date": "2022-06-12",
+        "months_before_deal": 9,
+        "score": 46.0,
+        "rank": 83,
+        "rank_percentile": 29.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 33.33,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 44.44,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0831,
+          "leverage_headroom": 3.44,
+          "fcf_conversion": 0.142,
+          "ebitda_growth_stability": 0.7961,
+          "revenue_volatility": 0.0875
+        }
+      },
+      {
+        "date": "2022-09-12",
+        "months_before_deal": 6,
+        "score": 48.67,
+        "rank": 74,
+        "rank_percentile": 37.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 22.22,
+          "leverage_headroom": 66.67,
+          "ebitda_margin": 44.44,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0894,
+          "leverage_headroom": 3.76,
+          "fcf_conversion": 0.078,
+          "ebitda_growth_stability": 0.7845,
+          "revenue_volatility": 0.096
+        }
+      },
+      {
+        "date": "2022-12-12",
+        "months_before_deal": 3,
+        "score": 54.89,
+        "rank": 57,
+        "rank_percentile": 52.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 44.44,
+          "leverage_headroom": 66.67,
+          "ebitda_margin": 44.44,
+          "ebitda_growth_stability": 66.67,
+          "revenue_volatility": 55.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0909,
+          "leverage_headroom": 3.89,
+          "fcf_conversion": 0.1935,
+          "ebitda_growth_stability": 0.7749,
+          "revenue_volatility": 0.1071
+        }
+      }
+    ]
+  },
+  "SYNH": {
+    "ticker": "SYNH",
+    "name": "Syneos Health, Inc.",
+    "sector": "Healthcare",
+    "acquirer": "Elliott / Patient Square / Veritas / Cinven",
+    "deal_announce_date": "2023-05-10",
+    "points": [
+      {
+        "date": "2020-05-10",
+        "months_before_deal": 36,
+        "score": 33.85,
+        "rank": 106,
+        "rank_percentile": 10.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 30.77,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1054,
+          "leverage_headroom": 0.15,
+          "fcf_conversion": 0.4601,
+          "ebitda_growth_stability": 0.58,
+          "revenue_volatility": 0.2514
+        }
+      },
+      {
+        "date": "2020-08-10",
+        "months_before_deal": 33,
+        "score": 46.77,
+        "rank": 83,
+        "rank_percentile": 29.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 76.92,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1028,
+          "leverage_headroom": 0.16,
+          "fcf_conversion": 0.6906,
+          "ebitda_growth_stability": 0.5781,
+          "revenue_volatility": 0.2562
+        }
+      },
+      {
+        "date": "2020-11-10",
+        "months_before_deal": 30,
+        "score": 53.23,
+        "rank": 65,
+        "rank_percentile": 45.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1101,
+          "leverage_headroom": 0.89,
+          "fcf_conversion": 0.85,
+          "ebitda_growth_stability": 0.5798,
+          "revenue_volatility": 0.2588
+        }
+      },
+      {
+        "date": "2021-02-10",
+        "months_before_deal": 27,
+        "score": 48.31,
+        "rank": 76,
+        "rank_percentile": 35.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 76.92,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1167,
+          "leverage_headroom": 0.26,
+          "fcf_conversion": 0.7284,
+          "ebitda_growth_stability": 0.59,
+          "revenue_volatility": 0.258
+        }
+      },
+      {
+        "date": "2021-05-10",
+        "months_before_deal": 24,
+        "score": 54.77,
+        "rank": 57,
+        "rank_percentile": 52.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1187,
+          "leverage_headroom": 0.49,
+          "fcf_conversion": 1.0236,
+          "ebitda_growth_stability": 0.5907,
+          "revenue_volatility": 0.257
+        }
+      },
+      {
+        "date": "2021-08-10",
+        "months_before_deal": 21,
+        "score": 50.46,
+        "rank": 72,
+        "rank_percentile": 39.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 84.62,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1226,
+          "leverage_headroom": 0.96,
+          "fcf_conversion": 0.7656,
+          "ebitda_growth_stability": 0.5931,
+          "revenue_volatility": 0.2515
+        }
+      },
+      {
+        "date": "2021-11-10",
+        "months_before_deal": 18,
+        "score": 46.15,
+        "rank": 84,
+        "rank_percentile": 29.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1195,
+          "leverage_headroom": 1.04,
+          "fcf_conversion": 0.5665,
+          "ebitda_growth_stability": 0.5937,
+          "revenue_volatility": 0.2477
+        }
+      },
+      {
+        "date": "2022-02-10",
+        "months_before_deal": 15,
+        "score": 48.15,
+        "rank": 76,
+        "rank_percentile": 35.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 30.77,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1199,
+          "leverage_headroom": 1.47,
+          "fcf_conversion": 0.6296,
+          "ebitda_growth_stability": 0.6026,
+          "revenue_volatility": 0.2436
+        }
+      },
+      {
+        "date": "2022-05-10",
+        "months_before_deal": 12,
+        "score": 39.54,
+        "rank": 95,
+        "rank_percentile": 19.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 38.46,
+          "leverage_headroom": 30.77,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1202,
+          "leverage_headroom": 1.38,
+          "fcf_conversion": 0.5061,
+          "ebitda_growth_stability": 0.6033,
+          "revenue_volatility": 0.2413
+        }
+      },
+      {
+        "date": "2022-08-10",
+        "months_before_deal": 9,
+        "score": 39.38,
+        "rank": 95,
+        "rank_percentile": 19.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 30.77,
+          "leverage_headroom": 38.46,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1252,
+          "leverage_headroom": 1.77,
+          "fcf_conversion": 0.4759,
+          "ebitda_growth_stability": 0.6046,
+          "revenue_volatility": 0.24
+        }
+      },
+      {
+        "date": "2022-11-10",
+        "months_before_deal": 6,
+        "score": 50.15,
+        "rank": 73,
+        "rank_percentile": 38.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 38.46,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1273,
+          "leverage_headroom": 1.92,
+          "fcf_conversion": 0.5701,
+          "ebitda_growth_stability": 0.605,
+          "revenue_volatility": 0.2402
+        }
+      },
+      {
+        "date": "2023-02-10",
+        "months_before_deal": 3,
+        "score": 58.15,
+        "rank": 47,
+        "rank_percentile": 60.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 69.23,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 23.08
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1206,
+          "leverage_headroom": 1.99,
+          "fcf_conversion": 0.5128,
+          "ebitda_growth_stability": 0.6111,
+          "revenue_volatility": 0.2375
+        }
+      }
+    ]
+  },
+  "FOCS": {
+    "ticker": "FOCS",
+    "name": "Focus Financial Partners Inc.",
+    "sector": "Financial Services",
+    "acquirer": "Clayton, Dubilier & Rice",
+    "deal_announce_date": "2023-05-23",
+    "points": [
+      {
+        "date": "2020-05-23",
+        "months_before_deal": 36,
+        "score": 33.1,
+        "rank": 107,
+        "rank_percentile": 9.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 80.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1022,
+          "leverage_headroom": null,
+          "fcf_conversion": 1.1738,
+          "ebitda_growth_stability": 0.3349,
+          "revenue_volatility": 0.0306
+        }
+      },
+      {
+        "date": "2020-08-23",
+        "months_before_deal": 33,
+        "score": 52.7,
+        "rank": 64,
+        "rank_percentile": 46.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 90.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 80.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0971,
+          "leverage_headroom": null,
+          "fcf_conversion": 1.4393,
+          "ebitda_growth_stability": 0.3353,
+          "revenue_volatility": 0.0378
+        }
+      },
+      {
+        "date": "2020-11-23",
+        "months_before_deal": 30,
+        "score": 52.7,
+        "rank": 64,
+        "rank_percentile": 46.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 90.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 80.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1002,
+          "leverage_headroom": null,
+          "fcf_conversion": 1.4037,
+          "ebitda_growth_stability": 0.3349,
+          "revenue_volatility": 0.0472
+        }
+      },
+      {
+        "date": "2021-02-23",
+        "months_before_deal": 27,
+        "score": 51.7,
+        "rank": 68,
+        "rank_percentile": 42.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 90.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 70.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0943,
+          "leverage_headroom": null,
+          "fcf_conversion": 1.496,
+          "ebitda_growth_stability": 0.3352,
+          "revenue_volatility": 0.0721
+        }
+      },
+      {
+        "date": "2021-05-23",
+        "months_before_deal": 24,
+        "score": 52.5,
+        "rank": 65,
+        "rank_percentile": 44.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 50.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0546,
+          "leverage_headroom": null,
+          "fcf_conversion": 2.8801,
+          "ebitda_growth_stability": 0.3296,
+          "revenue_volatility": 0.1083
+        }
+      },
+      {
+        "date": "2021-08-23",
+        "months_before_deal": 21,
+        "score": 51.5,
+        "rank": 68,
+        "rank_percentile": 42.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0542,
+          "leverage_headroom": null,
+          "fcf_conversion": 3.3907,
+          "ebitda_growth_stability": 0.331,
+          "revenue_volatility": 0.1794
+        }
+      },
+      {
+        "date": "2021-11-23",
+        "months_before_deal": 18,
+        "score": 50.5,
+        "rank": 69,
+        "rank_percentile": 40.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 30.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.052,
+          "leverage_headroom": null,
+          "fcf_conversion": 3.4597,
+          "ebitda_growth_stability": 0.3317,
+          "revenue_volatility": 0.2574
+        }
+      },
+      {
+        "date": "2022-02-23",
+        "months_before_deal": 15,
+        "score": 49.5,
+        "rank": 73,
+        "rank_percentile": 38.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 20.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.062,
+          "leverage_headroom": null,
+          "fcf_conversion": 2.7192,
+          "ebitda_growth_stability": 0.3352,
+          "revenue_volatility": 0.3488
+        }
+      },
+      {
+        "date": "2022-05-23",
+        "months_before_deal": 12,
+        "score": 46.7,
+        "rank": 82,
+        "rank_percentile": 30.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 90.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 20.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0876,
+          "leverage_headroom": null,
+          "fcf_conversion": 1.551,
+          "ebitda_growth_stability": 0.3272,
+          "revenue_volatility": 0.439
+        }
+      },
+      {
+        "date": "2022-08-23",
+        "months_before_deal": 9,
+        "score": 27.1,
+        "rank": 111,
+        "rank_percentile": 6.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 20.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1239,
+          "leverage_headroom": null,
+          "fcf_conversion": 1.0931,
+          "ebitda_growth_stability": 0.2882,
+          "revenue_volatility": 0.5112
+        }
+      },
+      {
+        "date": "2022-11-23",
+        "months_before_deal": 6,
+        "score": 27.1,
+        "rank": 111,
+        "rank_percentile": 6.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 20.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1476,
+          "leverage_headroom": null,
+          "fcf_conversion": 0.9229,
+          "ebitda_growth_stability": 0.2566,
+          "revenue_volatility": 0.5526
+        }
+      },
+      {
+        "date": "2023-02-23",
+        "months_before_deal": 3,
+        "score": 27.1,
+        "rank": 111,
+        "rank_percentile": 6.0,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 20.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1413,
+          "leverage_headroom": null,
+          "fcf_conversion": 0.8836,
+          "ebitda_growth_stability": 0.2619,
+          "revenue_volatility": 0.5677
+        }
+      }
+    ]
+  },
+  "CVT": {
+    "ticker": "CVT",
+    "name": "Cvent Holding Corp.",
+    "sector": "Technology",
+    "acquirer": "Blackstone",
+    "deal_announce_date": "2023-06-15",
+    "points": [
+      {
+        "date": "2021-09-15",
+        "months_before_deal": 21,
+        "score": 21.67,
+        "rank": 114,
+        "rank_percentile": 3.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 11.11,
+          "leverage_headroom": 44.44,
+          "ebitda_margin": 27.78,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1994,
+          "leverage_headroom": 3.04,
+          "fcf_conversion": 0.3869,
+          "ebitda_growth_stability": 0.5224,
+          "revenue_volatility": 1.2311
+        }
+      },
+      {
+        "date": "2021-12-15",
+        "months_before_deal": 18,
+        "score": 32.0,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 55.56,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 27.78,
+          "ebitda_growth_stability": 55.56,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1751,
+          "leverage_headroom": 0.95,
+          "fcf_conversion": 0.9541,
+          "ebitda_growth_stability": 0.87,
+          "revenue_volatility": 0.6164
+        }
+      },
+      {
+        "date": "2022-03-15",
+        "months_before_deal": 15,
+        "score": 43.44,
+        "rank": 87,
+        "rank_percentile": 26.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 88.89,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 22.22,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1538,
+          "leverage_headroom": 2.71,
+          "fcf_conversion": 1.473,
+          "ebitda_growth_stability": 0.7913,
+          "revenue_volatility": 0.0842
+        }
+      },
+      {
+        "date": "2022-06-15",
+        "months_before_deal": 12,
+        "score": 38.56,
+        "rank": 95,
+        "rank_percentile": 19.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 11.11,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1078,
+          "leverage_headroom": 1.48,
+          "fcf_conversion": 2.5109,
+          "ebitda_growth_stability": 0.7547,
+          "revenue_volatility": 0.0929
+        }
+      },
+      {
+        "date": "2022-09-15",
+        "months_before_deal": 9,
+        "score": 40.89,
+        "rank": 90,
+        "rank_percentile": 23.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 22.22,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0842,
+          "leverage_headroom": 1.99,
+          "fcf_conversion": 2.6521,
+          "ebitda_growth_stability": 0.7299,
+          "revenue_volatility": 0.1196
+        }
+      },
+      {
+        "date": "2022-12-15",
+        "months_before_deal": 6,
+        "score": 43.78,
+        "rank": 87,
+        "rank_percentile": 26.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 33.33,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0826,
+          "leverage_headroom": 2.69,
+          "fcf_conversion": 2.6896,
+          "ebitda_growth_stability": 0.7334,
+          "revenue_volatility": 0.1435
+        }
+      },
+      {
+        "date": "2023-03-15",
+        "months_before_deal": 3,
+        "score": 36.89,
+        "rank": 99,
+        "rank_percentile": 16.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 11.11,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0731,
+          "leverage_headroom": 1.49,
+          "fcf_conversion": 2.544,
+          "ebitda_growth_stability": 0.7595,
+          "revenue_volatility": 0.1393
+        }
+      }
+    ]
+  },
+  "EVBG": {
+    "ticker": "EVBG",
+    "name": "Everbridge, Inc.",
+    "sector": "Technology",
+    "acquirer": "Thoma Bravo",
+    "deal_announce_date": "2024-02-19",
+    "points": [
+      {
+        "date": "2021-02-19",
+        "months_before_deal": 36,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2564,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.0986,
+          "revenue_volatility": 0.1405
+        }
+      },
+      {
+        "date": "2021-05-19",
+        "months_before_deal": 33,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2238,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.0986,
+          "revenue_volatility": 0.1091
+        }
+      },
+      {
+        "date": "2021-08-19",
+        "months_before_deal": 30,
+        "score": 33.28,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2489,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.0985,
+          "revenue_volatility": 0.0811
+        }
+      },
+      {
+        "date": "2021-11-19",
+        "months_before_deal": 27,
+        "score": 33.83,
+        "rank": 107,
+        "rank_percentile": 9.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 33.33
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2334,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.0985,
+          "revenue_volatility": 0.0501
+        }
+      },
+      {
+        "date": "2022-02-19",
+        "months_before_deal": 24,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1966,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1049,
+          "revenue_volatility": 0.1312
+        }
+      },
+      {
+        "date": "2022-05-19",
+        "months_before_deal": 21,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1891,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1049,
+          "revenue_volatility": 0.1143
+        }
+      },
+      {
+        "date": "2022-08-19",
+        "months_before_deal": 18,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2019,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1049,
+          "revenue_volatility": 0.0992
+        }
+      },
+      {
+        "date": "2022-11-19",
+        "months_before_deal": 15,
+        "score": 33.28,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1944,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1049,
+          "revenue_volatility": 0.0858
+        }
+      },
+      {
+        "date": "2023-02-19",
+        "months_before_deal": 12,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1831,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1107,
+          "revenue_volatility": 0.1319
+        }
+      },
+      {
+        "date": "2023-05-19",
+        "months_before_deal": 9,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1705,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1108,
+          "revenue_volatility": 0.1267
+        }
+      },
+      {
+        "date": "2023-08-19",
+        "months_before_deal": 6,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.121,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1109,
+          "revenue_volatility": 0.1218
+        }
+      },
+      {
+        "date": "2023-11-19",
+        "months_before_deal": 3,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1055,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.1109,
+          "revenue_volatility": 0.12
+        }
+      }
+    ]
+  },
+  "MODN": {
+    "ticker": "MODN",
+    "name": "Model N, Inc.",
+    "sector": "Technology",
+    "acquirer": "Vista Equity Partners",
+    "deal_announce_date": "2024-05-06",
+    "points": [
+      {
+        "date": "2021-05-06",
+        "months_before_deal": 36,
+        "score": 32.17,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0111,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2794,
+          "revenue_volatility": 0.1487
+        }
+      },
+      {
+        "date": "2021-08-06",
+        "months_before_deal": 33,
+        "score": 32.17,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0249,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2583,
+          "revenue_volatility": 0.1484
+        }
+      },
+      {
+        "date": "2021-11-06",
+        "months_before_deal": 30,
+        "score": 32.17,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0333,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2488,
+          "revenue_volatility": 0.1478
+        }
+      },
+      {
+        "date": "2022-02-06",
+        "months_before_deal": 27,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0307,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2489,
+          "revenue_volatility": 0.1449
+        }
+      },
+      {
+        "date": "2022-05-06",
+        "months_before_deal": 24,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.016,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2493,
+          "revenue_volatility": 0.1438
+        }
+      },
+      {
+        "date": "2022-08-06",
+        "months_before_deal": 21,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.007,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2494,
+          "revenue_volatility": 0.1431
+        }
+      },
+      {
+        "date": "2022-11-06",
+        "months_before_deal": 18,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0181,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2577,
+          "revenue_volatility": 0.141
+        }
+      },
+      {
+        "date": "2023-02-06",
+        "months_before_deal": 15,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0241,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2571,
+          "revenue_volatility": 0.1388
+        }
+      },
+      {
+        "date": "2023-05-06",
+        "months_before_deal": 12,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0207,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2574,
+          "revenue_volatility": 0.137
+        }
+      },
+      {
+        "date": "2023-08-06",
+        "months_before_deal": 9,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0006,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2582,
+          "revenue_volatility": 0.1363
+        }
+      },
+      {
+        "date": "2023-11-06",
+        "months_before_deal": 6,
+        "score": 33.67,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0165,
+          "leverage_headroom": -62.25,
+          "fcf_conversion": 5.6353,
+          "ebitda_growth_stability": 0.2644,
+          "revenue_volatility": 0.1352
+        }
+      },
+      {
+        "date": "2024-02-06",
+        "months_before_deal": 3,
+        "score": 33.67,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0184,
+          "leverage_headroom": -54.03,
+          "fcf_conversion": 9.2953,
+          "ebitda_growth_stability": 0.2641,
+          "revenue_volatility": 0.134
+        }
+      }
+    ]
+  },
+  "SQSP": {
+    "ticker": "SQSP",
+    "name": "Squarespace, Inc.",
+    "sector": "Technology",
+    "acquirer": "Permira",
+    "deal_announce_date": "2024-05-13",
+    "points": [
+      {
+        "date": "2021-05-13",
+        "months_before_deal": 36,
+        "score": 36.0,
+        "rank": 102,
+        "rank_percentile": 13.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 11.11,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1137,
+          "leverage_headroom": -1.14,
+          "fcf_conversion": 2.5794,
+          "ebitda_growth_stability": 0.7618,
+          "revenue_volatility": 0.1503
+        }
+      },
+      {
+        "date": "2021-08-13",
+        "months_before_deal": 33,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2753,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2644,
+          "revenue_volatility": 0.0975
+        }
+      },
+      {
+        "date": "2021-11-13",
+        "months_before_deal": 30,
+        "score": 33.83,
+        "rank": 107,
+        "rank_percentile": 9.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 33.33
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2855,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2505,
+          "revenue_volatility": 0.0535
+        }
+      },
+      {
+        "date": "2022-02-13",
+        "months_before_deal": 27,
+        "score": 32.17,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 16.67
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2655,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2893,
+          "revenue_volatility": 0.1572
+        }
+      },
+      {
+        "date": "2022-05-13",
+        "months_before_deal": 24,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2911,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2858,
+          "revenue_volatility": 0.1366
+        }
+      },
+      {
+        "date": "2022-08-13",
+        "months_before_deal": 21,
+        "score": 33.67,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0163,
+          "leverage_headroom": -32.52,
+          "fcf_conversion": 9.8975,
+          "ebitda_growth_stability": 0.3137,
+          "revenue_volatility": 0.1243
+        }
+      },
+      {
+        "date": "2022-11-13",
+        "months_before_deal": 18,
+        "score": 33.67,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 5.56,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0218,
+          "leverage_headroom": -21.99,
+          "fcf_conversion": 6.8737,
+          "ebitda_growth_stability": 0.3142,
+          "revenue_volatility": 0.112
+        }
+      },
+      {
+        "date": "2023-02-13",
+        "months_before_deal": 15,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2078,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3202,
+          "revenue_volatility": 0.1338
+        }
+      },
+      {
+        "date": "2023-05-13",
+        "months_before_deal": 12,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1611,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3238,
+          "revenue_volatility": 0.1206
+        }
+      },
+      {
+        "date": "2023-08-13",
+        "months_before_deal": 9,
+        "score": 32.72,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.126,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3263,
+          "revenue_volatility": 0.1061
+        }
+      },
+      {
+        "date": "2023-11-13",
+        "months_before_deal": 6,
+        "score": 33.28,
+        "rank": 108,
+        "rank_percentile": 8.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1018,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.3278,
+          "revenue_volatility": 0.0924
+        }
+      },
+      {
+        "date": "2024-02-13",
+        "months_before_deal": 3,
+        "score": 35.33,
+        "rank": 103,
+        "rank_percentile": 12.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 88.89,
+          "leverage_headroom": 11.11,
+          "ebitda_margin": 22.22,
+          "ebitda_growth_stability": 5.56,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1261,
+          "leverage_headroom": 1.54,
+          "fcf_conversion": 1.6773,
+          "ebitda_growth_stability": 0.3504,
+          "revenue_volatility": 0.1159
+        }
+      }
+    ]
+  },
+  "RCM": {
+    "ticker": "RCM",
+    "name": "R1 RCM Inc.",
+    "sector": "Healthcare",
+    "acquirer": "TowerBrook Capital / Clayton, Dubilier & Rice",
+    "deal_announce_date": "2024-05-14",
+    "points": [
+      {
+        "date": "2021-11-14",
+        "months_before_deal": 30,
+        "score": 71.69,
+        "rank": 16,
+        "rank_percentile": 87.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 100.0,
+          "ebitda_margin": 61.54,
+          "ebitda_growth_stability": 53.85,
+          "revenue_volatility": 53.85
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1229,
+          "leverage_headroom": 5.94,
+          "fcf_conversion": 0.6508,
+          "ebitda_growth_stability": null,
+          "revenue_volatility": null
+        }
+      },
+      {
+        "date": "2022-02-14",
+        "months_before_deal": 27,
+        "score": 76.77,
+        "rank": 10,
+        "rank_percentile": 92.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 84.62,
+          "ebitda_margin": 69.23,
+          "ebitda_growth_stability": 61.54,
+          "revenue_volatility": 30.77
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1449,
+          "leverage_headroom": 2.39,
+          "fcf_conversion": 0.9584,
+          "ebitda_growth_stability": 0.7563,
+          "revenue_volatility": 0.1139
+        }
+      },
+      {
+        "date": "2022-05-14",
+        "months_before_deal": 24,
+        "score": 78.0,
+        "rank": 10,
+        "rank_percentile": 92.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 84.62,
+          "ebitda_margin": 69.23,
+          "ebitda_growth_stability": 69.23,
+          "revenue_volatility": 30.77
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.148,
+          "leverage_headroom": 2.56,
+          "fcf_conversion": 0.8428,
+          "ebitda_growth_stability": 0.7775,
+          "revenue_volatility": 0.0932
+        }
+      },
+      {
+        "date": "2022-08-14",
+        "months_before_deal": 21,
+        "score": 29.08,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 15.38,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 38.46
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0997,
+          "leverage_headroom": -5.54,
+          "fcf_conversion": -0.087,
+          "ebitda_growth_stability": 0.6597,
+          "revenue_volatility": 0.0747
+        }
+      },
+      {
+        "date": "2022-11-14",
+        "months_before_deal": 18,
+        "score": 34.15,
+        "rank": 106,
+        "rank_percentile": 10.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 15.38,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 46.15,
+          "revenue_volatility": 76.92
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1082,
+          "leverage_headroom": -3.83,
+          "fcf_conversion": -0.4776,
+          "ebitda_growth_stability": 0.6989,
+          "revenue_volatility": 0.0192
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "months_before_deal": 15,
+        "score": 30.77,
+        "rank": 110,
+        "rank_percentile": 6.8,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 15.38,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 53.85,
+          "revenue_volatility": 30.77
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0937,
+          "leverage_headroom": -4.56,
+          "fcf_conversion": -0.6111,
+          "ebitda_growth_stability": 0.7465,
+          "revenue_volatility": 0.1159
+        }
+      },
+      {
+        "date": "2023-05-14",
+        "months_before_deal": 12,
+        "score": 34.77,
+        "rank": 105,
+        "rank_percentile": 11.1,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 53.85,
+          "ebitda_growth_stability": 61.54,
+          "revenue_volatility": 38.46
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1049,
+          "leverage_headroom": -2.56,
+          "fcf_conversion": -0.4508,
+          "ebitda_growth_stability": 0.7482,
+          "revenue_volatility": 0.0683
+        }
+      },
+      {
+        "date": "2023-08-14",
+        "months_before_deal": 9,
+        "score": 37.23,
+        "rank": 99,
+        "rank_percentile": 16.2,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 15.38,
+          "leverage_headroom": 23.08,
+          "ebitda_margin": 69.23,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 69.23
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1507,
+          "leverage_headroom": 0.55,
+          "fcf_conversion": 0.2119,
+          "ebitda_growth_stability": 0.6416,
+          "revenue_volatility": 0.0326
+        }
+      },
+      {
+        "date": "2023-11-14",
+        "months_before_deal": 6,
+        "score": 42.15,
+        "rank": 88,
+        "rank_percentile": 25.6,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 23.08,
+          "leverage_headroom": 30.77,
+          "ebitda_margin": 76.92,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 61.54
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1649,
+          "leverage_headroom": 1.3,
+          "fcf_conversion": 0.4137,
+          "ebitda_growth_stability": 0.5945,
+          "revenue_volatility": 0.0369
+        }
+      },
+      {
+        "date": "2024-02-14",
+        "months_before_deal": 3,
+        "score": 65.54,
+        "rank": 28,
+        "rank_percentile": 76.9,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 69.23,
+          "leverage_headroom": 76.92,
+          "ebitda_margin": 84.62,
+          "ebitda_growth_stability": 38.46,
+          "revenue_volatility": 30.77
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1891,
+          "leverage_headroom": 2.16,
+          "fcf_conversion": 0.5575,
+          "ebitda_growth_stability": 0.565,
+          "revenue_volatility": 0.1119
+        }
+      }
+    ]
+  },
+  "ENV": {
+    "ticker": "ENV",
+    "name": "Envestnet, Inc.",
+    "sector": "Financial Services",
+    "acquirer": "Bain Capital",
+    "deal_announce_date": "2024-08-29",
+    "points": [
+      {
+        "date": "2021-08-29",
+        "months_before_deal": 36,
+        "score": 39.8,
+        "rank": 94,
+        "rank_percentile": 20.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0671,
+          "leverage_headroom": -6.22,
+          "fcf_conversion": 2.4249,
+          "ebitda_growth_stability": 0.2572,
+          "revenue_volatility": 0.1399
+        }
+      },
+      {
+        "date": "2021-11-29",
+        "months_before_deal": 33,
+        "score": 39.8,
+        "rank": 94,
+        "rank_percentile": 20.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 100.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.066,
+          "leverage_headroom": -5.89,
+          "fcf_conversion": 2.3391,
+          "ebitda_growth_stability": 0.2572,
+          "revenue_volatility": 0.135
+        }
+      },
+      {
+        "date": "2022-02-28",
+        "months_before_deal": 30,
+        "score": 17.4,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1334,
+          "leverage_headroom": 0.64,
+          "fcf_conversion": 1.0213,
+          "ebitda_growth_stability": 0.2596,
+          "revenue_volatility": 0.145
+        }
+      },
+      {
+        "date": "2022-05-29",
+        "months_before_deal": 27,
+        "score": 17.4,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1304,
+          "leverage_headroom": 0.71,
+          "fcf_conversion": 0.7359,
+          "ebitda_growth_stability": 0.2597,
+          "revenue_volatility": 0.1399
+        }
+      },
+      {
+        "date": "2022-08-29",
+        "months_before_deal": 24,
+        "score": 17.4,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.1148,
+          "leverage_headroom": 0.13,
+          "fcf_conversion": 0.6714,
+          "ebitda_growth_stability": 0.2595,
+          "revenue_volatility": 0.1369
+        }
+      },
+      {
+        "date": "2022-11-29",
+        "months_before_deal": 21,
+        "score": 17.4,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 20.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.125,
+          "leverage_headroom": 0.61,
+          "fcf_conversion": 0.5093,
+          "ebitda_growth_stability": 0.2596,
+          "revenue_volatility": 0.1366
+        }
+      },
+      {
+        "date": "2023-02-28",
+        "months_before_deal": 18,
+        "score": 14.6,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 10.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0482,
+          "leverage_headroom": -9.33,
+          "fcf_conversion": -0.1165,
+          "ebitda_growth_stability": 0.2661,
+          "revenue_volatility": 0.1488
+        }
+      },
+      {
+        "date": "2023-05-29",
+        "months_before_deal": 15,
+        "score": 14.6,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 10.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0455,
+          "leverage_headroom": -10.58,
+          "fcf_conversion": -0.8021,
+          "ebitda_growth_stability": 0.2661,
+          "revenue_volatility": 0.151
+        }
+      },
+      {
+        "date": "2023-08-29",
+        "months_before_deal": 12,
+        "score": 14.6,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 10.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0592,
+          "leverage_headroom": -6.48,
+          "fcf_conversion": -0.4009,
+          "ebitda_growth_stability": 0.2663,
+          "revenue_volatility": 0.1516
+        }
+      },
+      {
+        "date": "2023-11-29",
+        "months_before_deal": 9,
+        "score": 14.6,
+        "rank": 116,
+        "rank_percentile": 1.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 10.0,
+          "leverage_headroom": 10.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": 0.0592,
+          "leverage_headroom": -6.11,
+          "fcf_conversion": -0.3402,
+          "ebitda_growth_stability": 0.2663,
+          "revenue_volatility": 0.1506
+        }
+      },
+      {
+        "date": "2024-02-29",
+        "months_before_deal": 6,
+        "score": 38.9,
+        "rank": 94,
+        "rank_percentile": 20.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 55.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0596,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2669,
+          "revenue_volatility": 0.1544
+        }
+      },
+      {
+        "date": "2024-05-29",
+        "months_before_deal": 3,
+        "score": 38.9,
+        "rank": 94,
+        "rank_percentile": 20.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 55.0,
+          "leverage_headroom": 55.0,
+          "ebitda_margin": 10.0,
+          "ebitda_growth_stability": 20.0,
+          "revenue_volatility": 40.0
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0409,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.2666,
+          "revenue_volatility": 0.1524
+        }
+      }
+    ]
+  },
+  "SMAR": {
+    "ticker": "SMAR",
+    "name": "Smartsheet Inc.",
+    "sector": "Technology",
+    "acquirer": "Blackstone / Vista Equity Partners",
+    "deal_announce_date": "2024-09-23",
+    "points": [
+      {
+        "date": "2022-12-23",
+        "months_before_deal": 21,
+        "score": 38.61,
+        "rank": 94,
+        "rank_percentile": 20.5,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 38.89,
+          "revenue_volatility": 27.78
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2225,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.8371,
+          "revenue_volatility": 0.0771
+        }
+      },
+      {
+        "date": "2023-03-23",
+        "months_before_deal": 18,
+        "score": 32.83,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.2057,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.7825,
+          "revenue_volatility": 0.208
+        }
+      },
+      {
+        "date": "2023-06-23",
+        "months_before_deal": 15,
+        "score": 32.83,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.16,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.7459,
+          "revenue_volatility": 0.1745
+        }
+      },
+      {
+        "date": "2023-09-23",
+        "months_before_deal": 12,
+        "score": 34.5,
+        "rank": 106,
+        "rank_percentile": 10.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1351,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.7281,
+          "revenue_volatility": 0.1428
+        }
+      },
+      {
+        "date": "2023-12-23",
+        "months_before_deal": 9,
+        "score": 34.5,
+        "rank": 106,
+        "rank_percentile": 10.3,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 22.22
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.1332,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.7339,
+          "revenue_volatility": 0.1128
+        }
+      },
+      {
+        "date": "2024-03-23",
+        "months_before_deal": 6,
+        "score": 32.83,
+        "rank": 109,
+        "rank_percentile": 7.7,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 5.56
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.0973,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.7267,
+          "revenue_volatility": 0.1822
+        }
+      },
+      {
+        "date": "2024-06-23",
+        "months_before_deal": 3,
+        "score": 33.39,
+        "rank": 107,
+        "rank_percentile": 9.4,
+        "universe_size": 117,
+        "ratios_pct": {
+          "fcf_conversion": 52.78,
+          "leverage_headroom": 52.78,
+          "ebitda_margin": 5.56,
+          "ebitda_growth_stability": 16.67,
+          "revenue_volatility": 11.11
+        },
+        "raw_ratios": {
+          "ebitda_margin": -0.072,
+          "leverage_headroom": null,
+          "fcf_conversion": null,
+          "ebitda_growth_stability": 0.714,
+          "revenue_volatility": 0.164
+        }
+      }
+    ]
+  }
+}

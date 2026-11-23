@@ -1,0 +1,115 @@
+{
+  "parameters": {
+    "budget_usd": 50000000000.0,
+    "max_per_sector": 3,
+    "takeout_premium": 0.3
+  },
+  "lp_relaxation_shadow_prices": {
+    "lp_objective_value": 992.25,
+    "budget_shadow_price_per_dollar": 1e-08,
+    "budget_shadow_price_per_1m": 0.0093,
+    "budget_binding": true,
+    "sector_diversification_duals": [
+      {
+        "sector": "Consumer Cyclical",
+        "cap": 3,
+        "n_candidates_in_sector": 22,
+        "binding": true,
+        "shadow_price": 13.355,
+        "slack": -0.0
+      },
+      {
+        "sector": "Healthcare",
+        "cap": 3,
+        "n_candidates_in_sector": 12,
+        "binding": true,
+        "shadow_price": 6.7776,
+        "slack": -0.0
+      },
+      {
+        "sector": "Basic Materials",
+        "cap": 3,
+        "n_candidates_in_sector": 8,
+        "binding": true,
+        "shadow_price": 3.059,
+        "slack": -0.0
+      },
+      {
+        "sector": "Communication Services",
+        "cap": 3,
+        "n_candidates_in_sector": 3,
+        "binding": true,
+        "shadow_price": -0.0,
+        "slack": -0.0
+      },
+      {
+        "sector": "Financial Services",
+        "cap": 3,
+        "n_candidates_in_sector": 9,
+        "binding": true,
+        "shadow_price": -0.0,
+        "slack": -0.0
+      },
+      {
+        "sector": "Consumer Defensive",
+        "cap": 3,
+        "n_candidates_in_sector": 12,
+        "binding": false,
+        "shadow_price": -0.0,
+        "slack": 2.0
+      },
+      {
+        "sector": "Energy",
+        "cap": 3,
+        "n_candidates_in_sector": 8,
+        "binding": false,
+        "shadow_price": -0.0,
+        "slack": 3.0
+      },
+      {
+        "sector": "Industrials",
+        "cap": 3,
+        "n_candidates_in_sector": 24,
+        "binding": false,
+        "shadow_price": -0.0,
+        "slack": 3.0
+      },
+      {
+        "sector": "Real Estate",
+        "cap": 3,
+        "n_candidates_in_sector": 1,
+        "binding": false,
+        "shadow_price": -0.0,
+        "slack": 3.0
+      },
+      {
+        "sector": "Technology",
+        "cap": 3,
+        "n_candidates_in_sector": 17,
+        "binding": false,
+        "shadow_price": -0.0,
+        "slack": 1.9907
+      }
+    ]
+  },
+  "diversification_cost": {
+    "with_diversification": {
+      "max_per_sector": 3,
+      "total_value": 991.75,
+      "n_selected": 17
+    },
+    "without_diversification": {
+      "max_per_sector": 116,
+      "total_value": 997.17,
+      "n_selected": 17
+    },
+    "forgone_value_from_diversification": 5.42,
+    "forgone_value_pct": 0.54
+  },
+  "headline_findings": [
+    "An additional $1M of budget would increase total portfolio value by ~0.009 score-points (LP-relaxation shadow price).",
+    "The max-3-per-sector diversification constraint costs 5.4 points of total portfolio value (0.5%) versus the unconstrained-by-sector optimum.",
+    "The Consumer Cyclical sector cap is binding (22 eligible candidates vs. cap of 3)."
+  ],
+  "methodology_note": "Shadow prices are read from the LP relaxation of the MILP (binary selection variables relaxed to [0,1]); this is a standard approximation since integer programs don't have exact dual values. The diversification cost figure instead compares two fully-solved MILPs (with vs. without the sector cap) and so is exact, not an approximation."
+}

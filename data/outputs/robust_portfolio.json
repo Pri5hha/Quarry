@@ -1,0 +1,158 @@
+{
+  "status": "Optimal",
+  "parameters": {
+    "budget_usd": 12000000000.0,
+    "max_per_sector": 3,
+    "takeout_premium": 0.3,
+    "target_probability": 0.9,
+    "n_scenarios": 300,
+    "min_value_fraction": 0.95
+  },
+  "min_portfolio_value_target": 397.66,
+  "deterministic_baseline_value": 418.59,
+  "n_targets_selected": 8,
+  "budget_used_usd": 11568957836.8,
+  "budget_utilization_pct": 96.4,
+  "expected_portfolio_value": 418.59,
+  "portfolio_value_std_dev": 12.92,
+  "portfolio_value_p10": 401.11,
+  "empirical_probability_above_target": 0.9467,
+  "sector_breakdown": [
+    {
+      "sector": "Basic Materials",
+      "n_targets": 1,
+      "total_cost": 1917504243.2,
+      "avg_score": 41.75
+    },
+    {
+      "sector": "Communication Services",
+      "n_targets": 2,
+      "total_cost": 2332052486.4,
+      "avg_score": 60.335
+    },
+    {
+      "sector": "Consumer Cyclical",
+      "n_targets": 1,
+      "total_cost": 2146213888.0,
+      "avg_score": 53.64
+    },
+    {
+      "sector": "Consumer Defensive",
+      "n_targets": 1,
+      "total_cost": 378256985.6,
+      "avg_score": 33.17
+    },
+    {
+      "sector": "Financial Services",
+      "n_targets": 1,
+      "total_cost": 1077763731.2,
+      "avg_score": 57.78
+    },
+    {
+      "sector": "Healthcare",
+      "n_targets": 2,
+      "total_cost": 3717166502.4000006,
+      "avg_score": 55.79
+    }
+  ],
+  "selected_companies": [
+    {
+      "ticker": "OMCL",
+      "name": "Omnicell, Inc.",
+      "sector": "Healthcare",
+      "lbo_score": 68.5,
+      "sigma": 6.17,
+      "market_cap": 1688631936.0,
+      "acquisition_cost": 2195221516.8
+    },
+    {
+      "ticker": "SCHL",
+      "name": "Scholastic Corporation",
+      "sector": "Communication Services",
+      "lbo_score": 68.0,
+      "sigma": 3.05,
+      "market_cap": 792228224.0,
+      "acquisition_cost": 1029896691.2
+    },
+    {
+      "ticker": "NAVI",
+      "name": "Navient Corporation",
+      "sector": "Financial Services",
+      "lbo_score": 57.78,
+      "sigma": 3.67,
+      "market_cap": 829049024.0,
+      "acquisition_cost": 1077763731.2
+    },
+    {
+      "ticker": "WEN",
+      "name": "Wendy's Company (The)",
+      "sector": "Consumer Cyclical",
+      "lbo_score": 53.64,
+      "sigma": 2.08,
+      "market_cap": 1650933760.0,
+      "acquisition_cost": 2146213888.0
+    },
+    {
+      "ticker": "SBGI",
+      "name": "Sinclair, Inc.",
+      "sector": "Communication Services",
+      "lbo_score": 52.67,
+      "sigma": 9.07,
+      "market_cap": 1001658304.0,
+      "acquisition_cost": 1302155795.2
+    },
+    {
+      "ticker": "AVNS",
+      "name": "Avanos Medical, Inc.",
+      "sector": "Healthcare",
+      "lbo_score": 43.08,
+      "sigma": 1.5,
+      "market_cap": 1170726912.0,
+      "acquisition_cost": 1521944985.6
+    },
+    {
+      "ticker": "SCL",
+      "name": "Stepan Company",
+      "sector": "Basic Materials",
+      "lbo_score": 41.75,
+      "sigma": 4.84,
+      "market_cap": 1475003264.0,
+      "acquisition_cost": 1917504243.2
+    },
+    {
+      "ticker": "BGS",
+      "name": "B&G Foods, Inc.",
+      "sector": "Consumer Defensive",
+      "lbo_score": 33.17,
+      "sigma": 1.5,
+      "market_cap": 290966912.0,
+      "acquisition_cost": 378256985.6
+    }
+  ],
+  "comparison_vs_deterministic": {
+    "deterministic_tickers": [
+      "AVNS",
+      "BGS",
+      "NAVI",
+      "OMCL",
+      "SBGI",
+      "SCHL",
+      "SCL",
+      "WEN"
+    ],
+    "robust_tickers": [
+      "AVNS",
+      "BGS",
+      "NAVI",
+      "OMCL",
+      "SBGI",
+      "SCHL",
+      "SCL",
+      "WEN"
+    ],
+    "dropped_by_robust_solution": [],
+    "added_by_robust_solution": [],
+    "expected_value_given_up": 0.0
+  },
+  "methodology_note": "Uncertainty is simulated via Sample Average Approximation: each company's value is treated as score + Normal(0, sigma) noise, sigma calibrated from historical revenue volatility, and the portfolio is required to clear the target minimum value in at least target_probability of simulated scenarios. This converts an otherwise non-linear chance constraint into a solvable MILP."
+}
